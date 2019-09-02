@@ -2,33 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0367d01-1599-46b0-8fec-75bb1815a308" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/h02/Show.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h03/Javah4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h03/Javah4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h03/Javah4_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h03/Javah4_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h03/Javah4_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h03/Javah4_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h03/PraktijkOpdracht.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h05/Java5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h05/Java5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h06/Java6_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h06/Java6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h06/Java6_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h06/PraktijkOpdracht.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h08/Java8_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h08/Java8_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h08/Java8_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h08/Knop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h08/Praktijkopdracht.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h10/Java10_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h10/Java10_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h10/Java10_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h10/Java10_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h10/Java10_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h10/PraktijkOpdracht.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h11/Java11_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h01/HalloRocDev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h01/HalloRocDev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h01/MijnEersteJavaKlasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hs02/Java2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/h01/HalloRocDev.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,62 +17,27 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/h10/Java10_3.java">
+        <entry file="file://$PROJECT_DIR$/src/h01/MijnEersteJavaKlasse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
-              <caret line="76" column="1" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
+            <state relative-caret-position="119">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#471#472#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/h10/Java10_4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/h10/Java10_5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/h10/PraktijkOpdracht.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#94#95#0" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/h11/Java11_1.java">
+        <entry file="file://$PROJECT_DIR$/src/hs02/Java2_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="323">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -146,6 +88,8 @@
         <option value="$PROJECT_DIR$/src/h10/Java10_5.java" />
         <option value="$PROJECT_DIR$/src/h10/PraktijkOpdracht.java" />
         <option value="$PROJECT_DIR$/src/h11/Java11_1.java" />
+        <option value="$PROJECT_DIR$/src/h01/MijnEersteJavaKlasse.java" />
+        <option value="$PROJECT_DIR$/src/hs02/Java2_1.java" />
       </list>
     </option>
   </component>
@@ -160,6 +104,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,24 +118,16 @@
               <item name="inleiding-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="inleiding-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="inleiding-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="h11" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551357187001" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567409714379" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -205,7 +143,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Applet.Java11_1">
+  <component name="RunManager" selected="Applet.Java2_1">
     <configuration name="Java10_1" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="h10.Java10_1" />
       <module name="inleiding-java" />
@@ -220,34 +158,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java8_3" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h08.Java8_3" />
+    <configuration name="Java2_1" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hs02.Java2_1" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PraktijkOpdracht (1)" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h08.PraktijkOpdracht" />
+    <configuration name="Show" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hs02.Show" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Praktijkopdracht" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h08.Praktijkopdracht" />
+    <configuration name="MijnEersteJavaKlasse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h01.MijnEersteJavaKlasse" />
       <module name="inleiding-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="h01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.Java2_1" />
+        <item itemvalue="Applet.Show" />
+        <item itemvalue="Application.MijnEersteJavaKlasse" />
         <item itemvalue="Applet.Java11_1" />
         <item itemvalue="Applet.Java10_1" />
-        <item itemvalue="Applet.Praktijkopdracht" />
-        <item itemvalue="Applet.Java8_3" />
-        <item itemvalue="Applet.PraktijkOpdracht (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -265,16 +209,19 @@
       <workItem from="1549269686141" duration="27436000" />
       <workItem from="1551258027043" duration="2863000" />
       <workItem from="1553588308303" duration="36000" />
+      <workItem from="1558079357888" duration="629000" />
+      <workItem from="1567406664850" duration="2135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32578000" />
+    <option name="totallyTimeSpent" value="35342000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.123298034" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13313162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -293,7 +240,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -341,16 +288,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/h05/java_5.java" />
-    <entry file="file://$PROJECT_DIR$/src/h02/Show.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/h03/Javah4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -571,9 +508,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/Java11_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h10/PraktijkOpdracht.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h10/Java10_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h10/Java10_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/h10/Java10_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
+        <state relative-caret-position="529">
           <caret line="76" column="1" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -583,42 +560,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/h10/Java10_4.java">
+    <entry file="file://$PROJECT_DIR$/src/h01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h02/Show.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/h10/Java10_5.java">
+    <entry file="file://$PROJECT_DIR$/src/h01/MijnEersteJavaKlasse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/h10/PraktijkOpdracht.java">
+    <entry file="file://$PROJECT_DIR$/src/hs02/Java2_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="323">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/h11/Java11_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
           </folding>
         </state>
       </provider>
